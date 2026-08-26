@@ -1,2 +1,2 @@
 # Currency-Converter-Python
-money in different languages 💴💵💶💷
+Money in different languages 💴💵💶💷
